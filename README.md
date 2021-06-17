@@ -19,7 +19,7 @@ A data analysis of three different formats of electric car data and storing them
 * [Website](https://www.data.gov/): Any version
 * [API](https://www.data.gov/): Any version
 * [Microsoft Excel](https://www.microsoft.com/en-us/): Any version
-* [Microsoft Word](https://www.microsoft.com/en-us/): Any version)
+* [Microsoft Word](https://www.microsoft.com/en-us/): Any version
 * [Adobe PDF](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html): Any version
 ### Installation
 ***
